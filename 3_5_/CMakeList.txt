@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.28)
+project(task_5b)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(task_5b main.cpp
+        graph.h
+        graph.cpp
+        kruskal.h
+        kruskal.cpp
+        approximate_tsp.cpp
+        approximate_tsp.h
+        point_generator.cpp
+        point_generator.h
+        evaluation.cpp
+        evaluation.h)
