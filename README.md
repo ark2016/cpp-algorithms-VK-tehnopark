@@ -1,5 +1,5 @@
 # cpp-algorithms-VK-tehnopark
-# Semestr 1
+# Module 1
 # Общие требования для всех задач
 
 - Ввод/вывод отделены от решения.
@@ -195,7 +195,7 @@ U
 
 **Примечание:** Варианты в контесте - не те, который описаны здесь. Правильные варианты - здесь.
 
-# Semestr 2
+# Module 2
 
 # Задача 1. Хеш-таблица (6 баллов)
 
@@ -750,6 +750,7 @@ void Decode(IInputStream& compressed, IOutputStream& original)
     copyStream(compressed, original); 
 }
 ```
+# Module 3
 # Задача 1. «Представление графа» (5 баллов)
 
 **Обязательная задача**
